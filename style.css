@@ -1,0 +1,9 @@
+button{
+    margin: 0px 4px;
+    padding: 4px 0;
+    width: 44px;
+}
+
+button:hover{
+    background-color: yellowgreen;
+}
